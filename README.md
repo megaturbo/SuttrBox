@@ -13,7 +13,7 @@ Here you can see which mellow sounds engendered by the mighty Suttr will be in t
 ## License
 
 ```
-Copyright (c 2017 Thomas Roulin
+Copyright (c) 2017 Thomas Roulin
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
