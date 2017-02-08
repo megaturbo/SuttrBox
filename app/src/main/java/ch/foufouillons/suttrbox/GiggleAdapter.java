@@ -11,10 +11,6 @@ import android.widget.RelativeLayout;
 
 import java.util.ArrayList;
 
-/**
- * Created by Stagiaire6 on 08.02.2017.
- */
-
 class GiggleAdapter extends RecyclerView.Adapter<GiggleAdapter.GiggleHolder> {
 
     private Context context;
