@@ -6,9 +6,17 @@ An android soundboard aiming to let people enjoy the sweet and cute suttr voice 
 ## List of sounds
 Here you can see which mellow sounds engendered by the mighty Suttr will be in the app:
 
+* Flageolets ✓
 * La soupe d'ours
 * Cozin j'te jure
 * tbc
+
+## Ideas
+Here we write down our ideas for the further development of this magnificent application:
+
+* Time slider
+* Button Style
+* Widget (Customizable)
 
 ## License
 
