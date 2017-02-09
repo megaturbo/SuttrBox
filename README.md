@@ -9,6 +9,9 @@ Here you can see which mellow sounds engendered by the mighty Suttr will be in t
 * Flageolets ✓
 * La soupe d'ours ✓
 * J'ai ken Ken ✓
+* La guadeloupe ✓
+* Le sénégal ✓
+* The trvth abovt Cisovn ✓
 * Cozin j'te jure
 * tbc
 
