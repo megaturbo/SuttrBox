@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
         //TODO smarter
         list.add(new Giggle("Flageolets", "flageolets"));
         list.add(new Giggle("Soupe d'ours", "bearsoup"));
+        list.add(new Giggle("Ken Ken", "kenken"));
 
         return list;
     }

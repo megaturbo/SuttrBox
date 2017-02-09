@@ -7,7 +7,8 @@ An android soundboard aiming to let people enjoy the sweet and cute suttr voice 
 Here you can see which mellow sounds engendered by the mighty Suttr will be in the app:
 
 * Flageolets ✓
-* La soupe d'ours
+* La soupe d'ours ✓
+* J'ai ken Ken ✓
 * Cozin j'te jure
 * tbc
 
