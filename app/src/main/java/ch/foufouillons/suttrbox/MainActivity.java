@@ -37,6 +37,9 @@ public class MainActivity extends AppCompatActivity {
         list.add(new Giggle("Flageolets", "flageolets"));
         list.add(new Giggle("Soupe d'ours", "bearsoup"));
         list.add(new Giggle("Ken Ken", "kenken"));
+        list.add(new Giggle("Sénégal", "senegal"));
+        list.add(new Giggle("Guadeloupe", "guadeloupe"));
+        list.add(new Giggle("Cisoun", "cisoun"));
 
         return list;
     }
